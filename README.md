@@ -39,7 +39,7 @@ Foi realizada uma **análise descritiva**, destacando indicadores e padrões nos
 ## 🚀 Tecnologias Utilizadas
 - Power BI Desktop  
 - Modelagem de Dados  
-- ETL (Power Query)  
+- ETL  
 
 ---
 
