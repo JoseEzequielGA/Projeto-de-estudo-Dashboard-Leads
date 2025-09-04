@@ -33,8 +33,7 @@ Foi realizada uma **análise descritiva**, destacando indicadores e padrões nos
 ---
 
 ## 🖼️ Prints do Dashboard
-*(adicione aqui imagens do seu dashboard em formato `.png` ou `.jpg`)*
-
+![Dashboard de Leads](0001.png)
 ---
 
 ## 🚀 Tecnologias Utilizadas
